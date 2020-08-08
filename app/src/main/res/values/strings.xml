@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavLikePinterest</string>
+
+    <!-- Titles BottomNav -->
+    <string name="title_home">Home</string>
+    <string name="title_posts">Posts</string>
+    <string name="title_form">Form</string>
+    <string name="title_account">Account</string>
+
+</resources>
